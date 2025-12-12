@@ -1,3 +1,5 @@
+# THIS REPO HAS MOVED TO [CODEBERG](https://codeberg.org/moriazoso/warm-noir)
+
 A Lush Theme for Neovim.
 ===
 
